@@ -2965,11 +2965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dream/Desktop/Zeabix/TestC/mslearn-persist-data-ef-core/ContosoPizza/ContosoPizza.csproj",
+      "projectUniqueName": "/Users/dream/Desktop/Zeabix/TestC/DemoDotnet8/ContosoPizza/ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "/Users/dream/Desktop/Zeabix/TestC/mslearn-persist-data-ef-core/ContosoPizza/ContosoPizza.csproj",
+      "projectPath": "/Users/dream/Desktop/Zeabix/TestC/DemoDotnet8/ContosoPizza/ContosoPizza.csproj",
       "packagesPath": "/Users/dream/.nuget/packages/",
-      "outputPath": "/Users/dream/Desktop/Zeabix/TestC/mslearn-persist-data-ef-core/ContosoPizza/obj/",
+      "outputPath": "/Users/dream/Desktop/Zeabix/TestC/DemoDotnet8/ContosoPizza/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dream/.nuget/NuGet/NuGet.Config"
